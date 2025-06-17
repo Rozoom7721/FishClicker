@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Basic Hook (20 gold)",
+        "price": 20,
+        "power": 1,
+        "unlock": 30
+    },
+    {
+        "name": "Reinforced Hook (60 gold)",
+        "price": 60,
+        "power": 2,
+        "unlock": 100
+    },
+    {
+        "name": "Strong Hook (100 gold)",
+        "price": 100,
+        "power": 2,
+        "unlock": 200
+    },
+    {
+        "name": "Sharp Hook (200 gold)",
+        "price": 200,
+        "power": 3,
+        "unlock": 400
+    },
+    {
+        "name": "Pro Hook (300 gold)",
+        "price": 300,
+        "power": 3,
+        "unlock": 800
+    },
+    {
+        "name": "Elite Hook (600 gold)",
+        "price": 600,
+        "power": 4,
+        "unlock": 1000
+    },
+    {
+        "name": "Master Hook (1000 gold)",
+        "price": 1000,
+        "power": 4,
+        "unlock": 4000
+    },
+    {
+        "name": "Titan Hook (2500 gold)",
+        "price": 2500,
+        "power": 5,
+        "unlock": 10000
+    },
+    {
+        "name": "Legendary Hook (5000 gold)",
+        "price": 5000,
+        "power": 5,
+        "unlock": 18000
+    },
+    {
+        "name": "Ancient Hook (7500 gold)",
+        "price": 7500,
+        "power": 6,
+        "unlock": 30000
+    },
+    {
+        "name": "Mythic Hook (10000 gold)",
+        "price": 10000,
+        "power": 6,
+        "unlock": 50000
+    },
+    {
+        "name": "Divine Hook (20000 gold)",
+        "price": 20000,
+        "power": 10,
+        "unlock": 70000
+    },
+    {
+        "name": "Ethereal Hook (50000 gold)",
+        "price": 50000,
+        "power": 12,
+        "unlock": 100000
+    },
+    {
+        "name": "Dream Hook (100000 gold)",
+        "price": 100000,
+        "power": 15,
+        "unlock": 150000
+    },
+    {
+        "name": "Cosmic Hook (200000 gold)",
+        "price": 200000,
+        "power": 20,
+        "unlock": 250000
+    },
+    {
+        "name": "Black Hole Hook (500000 gold)",
+        "price": 500000,
+        "power": 25,
+        "unlock": 700000
+    },
+    {
+        "name": "Celestial Hook (1000000 gold)",
+        "price": 1000000,
+        "power": 30,
+        "unlock": 500000
+    },
+    {
+        "name": "Galactic Hook (2000000 gold)",
+        "price": 2000000,
+        "power": 35,
+        "unlock": 1000000
+    },
+    {
+        "name": "Universal Hook (5000000 gold)",
+        "price": 5000000,
+        "power": 40,
+        "unlock": 2500000
+    },
+    {
+        "name": "Infinity Hook (10000000 gold)",
+        "price": 10000000,
+        "power": 50,
+        "unlock": 5000000
+    }
+]

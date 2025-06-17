@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="image/QuestGuy.png">
+</head>
+<body>
+    <div class ="shopLine">
+        <div class ="upgradeShop">
+            <button id="fishRodButton" type="button" class="shopButton" disabled title=""></button>
+            <button id="fishHookButton" type="button" class="shopButton" disabled title=""></button>
+            <button id="fishBaitButton" type="button" class="shopButton" disabled title=""></button>
+            <button id="fishSpeciesButton" type="button" class="shopButton" disabled title=""></button>
+        </div>
+        <div class ="automatShop">
+            <button id="fishNetButton" type="button" class="shopButton" disabled></button>
+            <button id="fishLureButton" type="button" class="shopButton" disabled title="">Buy lure (100 gold)</button>
+            <button id="fishUseLureButton" type="button" class="shopButton" disabled title="Increse number of fish to catch">Use lure</button>
+        </div>
+    </div>
+    <div>
+        <p id="fishCount" class="statistic"></p>
+        <p id="goldCount" class="statistic"></p> 
+        <p id="catchPower" class="statistic"></p> 
+        <p id="automatCount" class="statistic"></p>
+    </div>
+    <div>
+        <p id="fishName" class="fishStatistic"></p>
+        <p id="fishLeft" class="fishStatistic">30/30</p>
+        <button type="button" id="myButton"><img src="" alt="Catch fish" id="fishPhoto"></button>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

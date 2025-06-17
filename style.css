@@ -1,0 +1,74 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    background-image: url(image/lake2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color:  black;
+}
+
+#myButton{
+    font-size: 2em;
+    display: block;
+    margin: auto auto;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    margin-top: 220px;
+}
+.statistic{
+    font-size: 1em;
+    display: inline-block;
+    padding: 0px 30px;
+}
+#fishPhoto{
+    width: 100%;
+    max-width: 400px;
+}
+.shopButton{
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: transparent;
+    color: white;
+    
+}
+.shopButton:hover{
+    cursor: pointer;
+}
+.shopButton:disabled{
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+#fishName{
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+#fishLeft{
+    font-size: 0.7em;
+    text-align: center;
+    margin-top: 0px;
+}
+.shopLine{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.upgradeShop{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+}
+.automatShop{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+

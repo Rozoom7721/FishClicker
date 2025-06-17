@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Basic Rod (30 gold)",
+        "price": 30,
+        "power": 2,
+        "unlock": 30
+    },
+    {
+        "name": "Sturdy Rod (120 gold)",
+        "price": 120,
+        "power": 3,
+        "unlock": 100
+    },
+    {
+        "name": "Strong Rod (200 gold)",
+        "price": 200,
+        "power": 2,
+        "unlock": 150
+    },
+    {
+        "name": "Fine Rod (350 gold)",
+        "price": 350,
+        "power": 4,
+        "unlock": 500
+    },
+    {
+        "name": "Pro Rod (500 gold)",
+        "price": 500,
+        "power": 5,
+        "unlock": 1000
+    },
+    {
+        "name": "Elite Rod (750 gold)",
+        "price": 750,
+        "power": 6,
+        "unlock": 1400
+    },
+    {
+        "name": "Master Rod (1000 gold)",
+        "price": 1000,
+        "power": 7,
+        "unlock": 1800
+    },
+    {
+        "name": "Ultra Rod (2500 gold)",
+        "price": 2500,
+        "power": 8,
+        "unlock": 5000
+    },
+    {
+        "name": "Legendary Rod (10000 gold)",
+        "price": 10000,
+        "power": 10,
+        "unlock": 20000
+    },
+    {
+        "name": "Ancient Rod (25000 gold)",
+        "price": 25000,
+        "power": 12,
+        "unlock": 50000
+    },
+    {
+        "name": "Mythic Rod (50000 gold)",
+        "price": 50000,
+        "power": 15,
+        "unlock": 100000
+    },
+    {
+        "name": "Divine Rod (120000 gold)",
+        "price": 120000,
+        "power": 20,
+        "unlock": 160000
+    },
+    {
+        "name": "Celestial Rod (300000 gold)",
+        "price": 300000,
+        "power": 25,
+        "unlock": 350000
+    },
+    {
+        "name": "Ethereal Rod (600000 gold)",
+        "price": 600000,
+        "power": 30,
+        "unlock": 500000
+    },
+    {
+        "name": "Dream Rod (1200000 gold)",
+        "price": 1200000,
+        "power": 35,
+        "unlock": 750000
+    },
+    {
+        "name": "Cosmic Rod (2500000 gold)",
+        "price": 2500000,
+        "power": 40,
+        "unlock": 1000000
+    },
+    {
+        "name": "Black Hole Rod (5000000 gold)",
+        "price": 5000000,
+        "power": 50,
+        "unlock": 1500000
+    },
+    {
+        "name": "Galactic Rod (10000000 gold)",
+        "price": 10000000,
+        "power": 60,
+        "unlock": 2500000
+    },
+    {
+        "name": "Universal Rod (20000000 gold)",
+        "price": 20000000,
+        "power": 70,
+        "unlock": 5000000
+    },
+    {
+        "name": "Infinity Rod (50000000 gold)",
+        "price": 50000000,
+        "power": 80,
+        "unlock": 10000000
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Roach (20 gold)",
+        "price": 20,
+        "unlock": 50,
+        "fishSell": 2,
+        "fishImage": "fish/roach.png"
+    },
+    {
+        "name": "Rudd (150 gold)",
+        "price": 150,
+        "unlock": 200,
+        "fishSell": 3,
+        "fishImage": "fish/rudd.png"
+    },
+    {
+        "name": "Silver crucian carp (350 gold)",
+        "price": 350,
+        "unlock": 500,
+        "fishSell": 4,
+        "fishImage": "fish/Silver_crucian_carp.png"
+    },
+    {
+        "name": "Golden crucian carp (2000 gold)",
+        "price": 2000,
+        "unlock": 3000,
+        "fishSell": 5,
+        "fishImage": "fish/golden_crucian_carp.png"
+    },
+    {
+        "name": "Perch (5000 gold)",
+        "price": 5000,
+        "unlock": 8600,
+        "fishSell": 6,
+        "fishImage": "fish/perch.png"
+    },
+    {
+        "name": "Bream (35000 gold)",
+        "price": 35000,
+        "unlock": 30000,
+        "fishSell": 7,
+        "fishImage": "fish/bream.png"
+    },
+        {
+        "name": "Carp (50000 gold)",
+        "price": 50000,
+        "unlock": 45000,
+        "fishSell": 8,
+        "fishImage": "fish/carp.png"
+    },
+        {
+        "name": "Pike (80000 gold)",
+        "price": 80000,
+        "unlock": 70000,
+        "fishSell": 9,
+        "fishImage": "fish/pike.png"
+    },
+    {
+        "name": "Zander (160000 gold)",
+        "price": 160000,
+        "unlock": 130000,
+        "fishSell": 10,
+        "fishImage": "fish/zander.png"
+    },
+    {
+        "name": "Tench (320000 gold)",
+        "price": 320000,
+        "unlock": 250000,
+        "fishSell": 11,
+        "fishImage": "fish/tench.png"
+    },
+    {
+        "name": "Catfish (600000 gold)",
+        "price": 600000,
+        "unlock": 450000,
+        "fishSell": 12,
+        "fishImage": "fish/catfish.png"
+    },
+    {
+        "name": "Sturgeon (1.2M gold)",
+        "price": 1200000,
+        "unlock": 900000,
+        "fishSell": 13,
+        "fishImage": "fish/sturgeon.png"
+    },
+    {
+        "name": "SpaceWhale (100M gold)",
+        "price": 100000000,
+        "unlock": 80000000,
+        "fishSell": 40,
+        "fishImage": "fish/spacewhale.png"
+    }
+]
